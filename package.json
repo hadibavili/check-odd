@@ -1,28 +1,28 @@
 {
-    "name": "check-odd",
-    "version": "1.0.3",
-    "description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
-    "main": "check-odd.js",
-    "bin":"check-odd.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hadibavili/check-odd.git"
-    },
-    "keywords": [
-      "check-odd",
-      "odd",
-      "iss-odd",
-      "even",
-      "is"
-    ],
-    "author": "hadi bavili",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/hadibavili/check-odd/issues"
-    },
-    "homepage": "https://github.com/hadibavili/check-odd#readme"
-  }
-  
+  "name": "check-odd",
+  "version": "1.0.4",
+  "description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
+  "main": "check-odd.js",
+  "bin":"check-odd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadibavili/check-odd.git"
+  },
+  "keywords": [
+    "check-odd",
+    "odd",
+    "is-odd",
+    "even",
+    "is",
+    "number"
+  ],
+  "author": "hadi bavili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadibavili/check-odd/issues"
+  },
+  "homepage": "https://github.com/hadibavili/check-odd#readme"
+}
